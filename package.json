@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_api_developement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANJUSHREEBR/NodeJs_API_Developement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANJUSHREEBR/NodeJs_API_Developement/issues"
+  },
+  "homepage": "https://github.com/MANJUSHREEBR/NodeJs_API_Developement#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
